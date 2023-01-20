@@ -20,6 +20,6 @@
 0.0.0.0	o14.ptr1445.account.tiktok.com
 0.0.0.0	o2.ptr4323.i.account.tiktok.com
 0.0.0.0	dev.tiktok.com
-0.0.0.0	10 mx1.tiktok.com.
-0.0.0.0	20 mx2.tiktok.com.
-0.0.0.0	30 mx3.tiktok.com.
+0.0.0.0	mx1.tiktok.com.
+0.0.0.0	mx2.tiktok.com.
+0.0.0.0	mx3.tiktok.com.
