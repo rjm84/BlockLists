@@ -1,5 +1,6 @@
 # sourced from dnsdumpster.com
 
+0.0.0.0 www.tiktok.com
 0.0.0.0	tiktok.com
 0.0.0.0	o1.ptr3703.tiktok.com
 0.0.0.0	o33.ptr2870.india.tiktok.com
