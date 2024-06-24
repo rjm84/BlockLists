@@ -1,3 +1,5 @@
+# sourced from DNSDumpster.com
+
 0.0.0.0	braze-connected-content.adse.jagex.com
 0.0.0.0	datahub.adse.jagex.com
 0.0.0.0	nginx.web.any.jagex.com
